@@ -18,9 +18,15 @@ Documentar e centralizar os projetos e arquivos do portfólio profissional desen
 
 ## 🔗 Links Úteis
 
-- [Meu portfólio no Google Sites](https://sites.google.com/view/seu-portfolio)  
-- [Perfil no LinkedIn](https://www.linkedin.com/in/cristianoborges)
+- [Meu portfólio no Google Sites](https://docs.google.com/presentation/d/1KPLnc3pPKP3ealyXDAnKXimz7LIZXmaf3n_eNWDr1aQ/edit?usp=sharing)
+- [Perfil no LinkedIn](https://www.linkedin.com/in/cristiano-mundin/)
 
 ---
 
 📍 *Este repositório é parte integrante da entrega intermediária do desafio PortfolioHUB.*
+
+### 🎥 Apresentação em Vídeo
+
+Confira minha apresentação completa no Loom:
+[🔗 Assista ao vídeo no Loom](COLE_AQUI_O_LINK_DO_SEU_VIDEO)
+
